@@ -15,6 +15,8 @@ The initial software architecture is represented below:
 
 ![alt tag](https://raw.github.com/inab/cdw/develop/docs/imgs/infrastructure.png)
 
+*ETL
+
 As in many others data warehouse solutions, data is imported into the system through an ETL layer. In this case however there are two issues that might compromise the performance of the system and should be carefully considered.
 
 *Lack of standards:* In contrast with well established industries where huge efforts have been devoted to standardize the way data is exchanged, the field of bioinformatics and also the clinical domain are full of different data exchange formats.
