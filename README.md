@@ -98,15 +98,16 @@ Implementation plan
   - 2S
  
 
-Legacy data
------------
+Legacy data examples
+--------------------
 
 **Genomics**
 
-Chondrodysplasia
+```
+Chondrodysplasia.
 Vissers LE, et al; Am J Hum Genet. 2011 May 13;88(5):608-15.
 Chondrodysplasia and abnormal joint development associated with mutations in IMPAD1, encoding the Golgi-resident nucleotide phosphatase, gPAPP.
-
+```
 
 
 
