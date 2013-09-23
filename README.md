@@ -43,21 +43,21 @@ Implementation plan
 
   - 1S
       - [x] Determine information required from end-users (business cases)
-      - [] Create a list of the data resources available 
-      - [] Create a list of the standards available
-      - [] Create a compilation of the key enabling technologies
+      - [x] Create a list of the data resources available 
+      - [x] Create a list of the standards available
+      - [x] Create a compilation of the key enabling technologies
 
   - 2S
-      - Analysis of the datamodel requirements
-      - Analysis of the infrastructure requirements
-      - Selection of the adecuate technology 
-      - First datamodel proposal
-      - First arquitecture proposal
+      - [x] Analysis of the datamodel requirements
+      - [x] Analysis of the infrastructure requirements
+      - [x] Selection of the adecuate technology 
+      - [x] First datamodel proposal
+      - [x] First arquitecture proposal
 
 - 2013
 
   - 1S
-      - First prototype of the system 
+      - [ ] First prototype of the system 
 
   - 2S
 
