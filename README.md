@@ -72,25 +72,28 @@ Implementation plan
 - 2013
 
   - 1S
-      - [ ] First prototype of the system 
+      - [ ] First release of the system 
 
   - 2S
 
 - 2014
 
   - 1S
+      - [ ] Second release of the system   
 
   - 2S
 
 - 2015
 
   - 1S
+      - [ ] Third release of the system 
 
   - 2S
 
 - 2016
 
   - 1S
+      - [ ] Fourth release of the system 
 
   - 2S
 
