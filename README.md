@@ -23,7 +23,7 @@ As in many others data warehouse solutions, data is imported into the system thr
 
 *Data size:* after the arrival of the “Omic era” the explosion of data in bioinformatics has been enormous. For instance each NGS experiment produces data in the order of Terabytes. This data has to be processed, standardized and cleaned; all this demands a considerable amount of computational resources and CPU time.
 
-Due to these to factors the ETL layer has to be flexible enough to accommodate different kinds of data transformations and has to be efficient in order to manipulate all this data in a reasonable amount of time.  
+Due to these two factors, the ETL layer has to be flexible enough to accommodate different kinds of data transformations and has to be efficient in order to manipulate all this data in a reasonable amount of time.  
 
 
 Key enabling products/technologies
