@@ -12,6 +12,8 @@ Business cases
 System arquitecture
 -------------------
 
+![alt tag](https://raw.github.com/inab/cdw/develop/docs/imgs/infrastructure.png)
+
 Key enabling products/technologies
 ----------------------------------
 
