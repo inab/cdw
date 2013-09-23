@@ -9,6 +9,9 @@ Clinical Data Warehouse
 Business cases
 --------------
 
+System arquitecture
+-------------------
+
 Key enabling products/technologies
 ----------------------------------
 
