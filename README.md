@@ -109,7 +109,23 @@ Vissers LE, et al; Am J Hum Genet. 2011 May 13;88(5):608-15.
 Chondrodysplasia and abnormal joint development associated with mutations in IMPAD1, encoding the Golgi-resident nucleotide phosphatase, gPAPP.
 ```
 
+**Transcriptomics**
 
+```
+Skeletal dysplasia. Lausch E, et al; Nat Genet. 2011 Feb;43(2):132-7. Genetic deficiency of tartrate-resistant acid phosphatase associated with skeletal dysplasia, cerebral calcifications and autoimmunity.
+```
+
+**Proteomics**
+
+```
+Toxic Oil Syndrome. Rodriguez C, et al; Proteomics. 2006 Apr;6 Suppl 1:S272-81. Proteotyping of human haptoglobin by MALDI-TOF profiling: Phenotype distribution in a population of toxic oil syndrome patients.
+```
+
+**Metabolomics**
+
+```
+Cerebellar ataxia. Mochel F, et al; Brain 2009, 132(Pt 3): 801-9. Cerebellar ataxia with elevated cerebrospinal free sialic acid (CAFSA)
+```
 
 References
 ----------
