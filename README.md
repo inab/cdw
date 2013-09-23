@@ -42,10 +42,10 @@ Implementation plan
 - 2012
 
   - 1S
-      [] Determine information required from end-users (business cases)
-      [] Create a list of the data resources available 
-      [] Create a list of the standards available
-      [] Create a compilation of the key enabling technologies
+      - [] Determine information required from end-users (business cases)
+      - [] Create a list of the data resources available 
+      - [] Create a list of the standards available
+      - [] Create a compilation of the key enabling technologies
 
   - 2S
       - Analysis of the datamodel requirements
