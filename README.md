@@ -25,6 +25,7 @@ As in many others data warehouse solutions, data is imported into the system thr
 
 Due to these two factors, the ETL layer has to be flexible enough to accommodate different kinds of data transformations and has to be efficient in order to manipulate all this data in a reasonable amount of time.  
 
+During the ETL process, the data from different entities (patient registries, Biobanks, research groups, etc.) will be inspected to ensure compliance with the long-term supported standards adopted by the consortium. (See the Adopted Standards section for a complete list)  
 
 Key enabling products/technologies
 ----------------------------------
