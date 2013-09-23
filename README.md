@@ -21,7 +21,7 @@ As in many others data warehouse solutions, data is imported into the system thr
 
 *Lack of standards:* In contrast with well established industries where huge efforts have been devoted to standardize the way data is exchanged, the field of bioinformatics and also the clinical domain are full of different data exchange formats.
 
-*Data size:* after the arrival of the “Omic era” the explosion of data in bioinformatics has been enormous. For instance each NGS experiment produces data in the order of Terabytes. This data has to be processed, standardized and cleaned; all this demands a considerable amount of computational resources and CPU time.
+*Data size:* after the arrival of the “Omic era” the explosion of data in bioinformatics has been enormous. For instance each single NGS experiment produces data in the order of Terabytes. This data has to be processed, standardized and cleaned; all this demands a considerable amount of computational resources and CPU time.
 
 Due to these two factors, the ETL layer has to be flexible enough to accommodate different kinds of data transformations and has to be efficient in order to manipulate all this data in a reasonable amount of time.  
 
