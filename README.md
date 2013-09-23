@@ -27,6 +27,20 @@ Due to these two factors, the ETL layer has to be flexible enough to accommodate
 
 During the ETL process, the data from different entities (patient registries, Biobanks, research groups, etc.) will be inspected to ensure compliance with the long-term supported standards adopted by the consortium. (See the Adopted Standards section for a complete list)  
 
+**Data repository**
+
+The data repository will store the data needed to: 1) search the data warehouse integrating parameters related with the different original sources, 2) provide access to the original information in the form of secured links.
+
+To illustrate the case let’s assume a patient with a spinocerebellar ataxia (SCA):
+
+The patient clinical data is stored in one of the registries listed in the Ataxia Foundation (http://www.ataxia.org/research/patient-registry.aspx). The patient has been sequenced searching for Ataxia related genes and the FastQ files containing the unaligned reads from the exome sequencing experiment were deposited in the European Genome Phenome Archive (EGA, https://www.ebi.ac.uk/ega/)   
+
+The data warehouse should allow authorized researchers to search for the spinocerebellar ataxia related conditions and ultimately retrieve the exome data. To facilitate this process we store in the data repository a subset of the patient clinical data previously normalized using the adopted standards. The repository also stores the experiment metadata including the software version, the parameters that were used to make the analysis and the link to the original files in the EGA.
+
+Authorized researchers then can query the data warehouse using a controlled vocabulary to retrieve the list of all the patients that match the ataxia conditions, can then filter this information by the pipeline used to get the mutation data and finally get the link to the original files for further analyses.   
+
+
+
 Key enabling products/technologies
 ----------------------------------
 
