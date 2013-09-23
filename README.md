@@ -96,6 +96,19 @@ Implementation plan
       - [ ] Fourth release of the system 
 
   - 2S
+ 
+
+Legacy data
+-----------
+
+**Genomics**
+
+Chondrodysplasia
+Vissers LE, et al; Am J Hum Genet. 2011 May 13;88(5):608-15.
+Chondrodysplasia and abnormal joint development associated with mutations in IMPAD1, encoding the Golgi-resident nucleotide phosphatase, gPAPP.
+
+
+
 
 References
 ----------
