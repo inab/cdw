@@ -27,10 +27,11 @@ Implementation plan
   - 1S
       - Determine information required from end-users (business cases)
       - Study of the data resources available
-      - Analysis of the datamodel requirements
+      - Study of the standards available
       - Compilation of the key enabling technologies
 
   - 2S
+      - Analysis of the datamodel requirements
       - Selection of the adecuate technology 
       - First datamodel proposal 
 
