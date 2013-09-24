@@ -68,7 +68,7 @@ Other
   - *PDF with attachments (documentation)*
   - *Perl*
 
-Standards evauated during the design phase
+Standards evaluated during the design phase
 ------------------------------------------
 
 Controlled vocabularies and ontologies:
