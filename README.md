@@ -41,7 +41,7 @@ Authorized researchers then can query the data warehouse using a controlled voca
 
 
 
-Key enabling products/technologies being considered during the design phase 
+Key enabling products/technologies evaluated during the design phase 
 ---------------------------------------------------------------------------
 
 Storage and data management technologies considered, focusing on scalability, query capabilities and sparse data storage. Most of it was tested with public BS Seq methylation data from ICGC, coming from CLL:
