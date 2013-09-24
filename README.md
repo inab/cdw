@@ -9,7 +9,7 @@ Due to the complexity of this task we would like to encourage all people to cont
 Business cases
 --------------
 
-System arquitecture
+System architecture
 -------------------
 The initial software architecture is represented below:
 
