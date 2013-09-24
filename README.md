@@ -68,10 +68,19 @@ Other
   - *PDF with attachments (documentation)*
   - *Perl*
 
-Adopted Standards
------------------
+Standards evauated during the design phase
+------------------------------------------
 
-- SDTM http://www.cdisc.org/sdtm
+Controlled vocabularies and ontologies:
+ - GenCODE15/EnsEMBL70 genes and transcripts (for chromosomical coordinates and annotations)
+ - ISO-3166-1, ISO-3166-2 and UN M.49 mashup (for geographical areas where the donors were born, stay or lived)
+ - Cell Ontology ( http://cellontology.org/ , for cell types)
+ - EFO ( http://www.ebi.ac.uk/efo/) and SNOMED-CT (http://www.ihtsdo.org/snomed-ct/) for disease donors' description
+ - ISO8601 (dates, ranges, etc...)
+
+Standards:
+  - IHEC metadata http://ihec-epigenomes.org/research/operating-procedures/
+  - SDTM http://www.cdisc.org/sdtm
 
 Implementation plan
 -------------------
