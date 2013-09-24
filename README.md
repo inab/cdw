@@ -58,6 +58,16 @@ Storage and data management technologies considered, focusing on scalability, qu
 
 Many products (like Riak or HBase) are not considered because they do not allow (or it is difficult) to build complex indexes based on several attributes/columns, or their storage paradigm is bizarre.
 
+Other
+
+  - *NodeJS*
+  - *XML Schema*
+  - *SHA1 (model signing)*
+  - *dot (from Graphviz, for model graphical representation)*
+  - *XeTeX (documentation)*
+  - *PDF with attachments (documentation)*
+  - *Perl*
+
 Adopted Standards
 -----------------
 
