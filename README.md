@@ -41,26 +41,23 @@ Authorized researchers then can query the data warehouse using a controlled voca
 
 
 
-Key enabling products/technologies being considered for 
--------------------------------------------------
+Key enabling products/technologies being considered during the design phase 
+---------------------------------------------------------------------------
 
 Storage and data management technologies considered, focusing on scalability, query capabilities and sparse data storage. Most of it was tested with public BS Seq methylation data from ICGC, coming from CLL:
   
-  - BioMart 0.8: discarded on long term, it has serious scalability issues hit in ICGC and BLUEPRINT.
-  - HDF5: very efficient at storage level, but discarded, very difficult to build queries as it does not have a query processor
-  - Relational databases with SQL'99 ARRAY type (e.g. PostgreSQL): discarded, not so sparse on dumps or updates
-  - NoSQL databases: Very scalable, but their query processor is not as fancy as the SQL ones, as they are usually focused on map ... reduce paradigm.
-
-Many products (like Riak or HBase) are not considered because they do not allow (or it is difficult) building compound indexes, based on several attributes/columns, or their storage paradigm is bizarre.
-
-  - Apache Cassandra: Tested one year ago, with a custom query language called CQL. Although it is rather scalable, it was also rather slow storing the methylation test data, so discarded.
-  - MongoDB: It is based on binary JSON documents paradigm (i.e. a hierarchical model). Very scalable, very fast data loads, lots of specialized indexes. As it doesn't have a query language as such, but API's to build streamlined queries, there are some queries easy to be built in SQL (i.e., joins) which much be rewritten in map ... reduce style.
+  - *BioMart 0.8:* discarded on long term, it has serious scalability issues hit in ICGC and BLUEPRINT.
+  - *HDF5:* very efficient at storage level, but discarded, very difficult to build queries as it does not have a query processor
+  - *Relational databases with SQL'99 ARRAY type (e.g. PostgreSQL):* discarded, not so sparse on dumps or updates
+  - *Apache Cassandra:* Tested one year ago, with a custom query language called CQL. Although it is rather scalable, it was also rather slow storing the methylation test data, so discarded.
+  - *MongoDB:* It is based on binary JSON documents paradigm (i.e. a hierarchical model). Very scalable, very fast data loads, lots of specialized indexes. As it doesn't have a query language as such, but API's to build streamlined queries, there are some queries easy to be built in SQL (i.e., joins) which much be rewritten in map ... reduce style.
   - RethinkDB: A promising NoSQL database, which, as MongoDB and other NoSQL databases, is based on JSON documents paradigm. But as it is still buggy, it has been discarded (for now).
   - Easy storage/specialized management of tabular data:
     - MySQL: discarded, slow index builds
     - tabix tools: fastest than anyone, manages BED, VCF, GFF, SAM, focused on chromosomal coordinate searches; but discarded, very difficult to build queries as it does not have a query processor. 
     - Apache Solr: based on Lucene, very scalable and promising, but as it is focused on incremental results fetch (like in search engines), it is slow when you ask for all the results.
 
+Many products (like Riak or HBase) are not considered because they do not allow (or it is difficult) building compound indexes, based on several attributes/columns, or their storage paradigm is bizarre.
 
 Adopted Standards
 -----------------
