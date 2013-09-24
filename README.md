@@ -41,14 +41,13 @@ Authorized researchers then can query the data warehouse using a controlled voca
 
 
 
-Key enabling products/technologies
-----------------------------------
+Key enabling products/technologies being considered for 
+-------------------------------------------------
 
-- Storage and data management technologies considered, focusing on scalability, query capabilities and sparse data storage. Most of it was tested with public BS Seq methylation data from ICGC, coming from CLL:
+Storage and data management technologies considered, focusing on scalability, query capabilities and sparse data storage. Most of it was tested with public BS Seq methylation data from ICGC, coming from CLL:
   
   - BioMart 0.8: discarded on long term, it has serious scalability issues hit in ICGC and BLUEPRINT.
-  - Sparse storage:
-      - HDF5: very efficient at storage level, but discarded, very difficult to build queries as it does not have a query processor
+  - HDF5: very efficient at storage level, but discarded, very difficult to build queries as it does not have a query processor
   - Relational databases with SQL'99 ARRAY type (e.g. PostgreSQL): discarded, not so sparse on dumps or updates
   - NoSQL databases: Very scalable, but their query processor is not as fancy as the SQL ones, as they are usually focused on map ... reduce paradigm.
 
