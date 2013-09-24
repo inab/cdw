@@ -56,7 +56,7 @@ Storage and data management technologies considered, focusing on scalability, qu
   - *tabix tools:* fastest than anyone, manages BED, VCF, GFF, SAM, focused on chromosomal coordinate searches; but discarded, very difficult to build queries as it does not have a query processor. 
   - *Apache Solr:* based on Lucene, very scalable and promising, but as it is focused on incremental results fetch (like in search engines), it is slow when you ask for all the results.
 
-Many products (like Riak or HBase) are not considered because they do not allow (or it is difficult) building compound indexes, based on several attributes/columns, or their storage paradigm is bizarre.
+Many products (like Riak or HBase) are not considered because they do not allow (or it is difficult) to build complex indexes based on several attributes/columns, or their storage paradigm is bizarre.
 
 Adopted Standards
 -----------------
