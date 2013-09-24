@@ -4,7 +4,7 @@ The purpose of this Project is to build an open-source, scalable data warehouse 
 
 The European Project RD-Connect (http://rd-connect.eu/) supports this effort providing the resources and the uses cases that will drive the development of this data warehouse. In particular the system developed will be the main outcome of the project’s WP5 in which several groups participate. (for the full list of partners in the consortium see http://rd-connect.eu/about/partners/)
 
-Due to the complexity of this task we would like to encourage all people to contribute with comments and issues/bug fixes requests. The project Wiki and the issue requests system will be the main channels for this communication.
+Due to the complexity of this task we would like to encourage all people to contribute with comments and issues/bug fixes requests. The project [Wiki](https://github.com/inab/cdw/wiki) and the issue requests system will be the main channels for this communication.
 
 Business cases
 --------------
