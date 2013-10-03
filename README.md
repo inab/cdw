@@ -47,7 +47,7 @@ See the [wiki] (https://github.com/inab/cdw/wiki/Key-enabling-products-technolog
 Standards evaluated during the design phase
 ------------------------------------------
 
-Wee the [wiki] (https://github.com/inab/cdw/wiki/Standards) 
+See the [wiki] (https://github.com/inab/cdw/wiki/Standards) 
 
 Implementation plan
 -------------------
