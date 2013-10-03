@@ -134,8 +134,8 @@ References
 - http://bbmri.eu/
 - http://www.nature.com/nbt/journal/v29/n9/full/nbt.1958.html
 
-Patient registries related
-==========================
+**Patient registries related**
+
 - http://www.euro-hd.net/html/registry
 - http://www.epirare.eu/ 
 - http://rarediseases.info.nih.gov
