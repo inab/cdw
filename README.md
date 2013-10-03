@@ -64,9 +64,9 @@ Implementation plan
   - 2S
       - [x] Analysis of the datamodel requirements
       - [x] Analysis of the infrastructure requirements
-      - [x] Selection of the adecuate technology 
-      - [x] First datamodel proposal
-      - [x] First arquitecture proposal
+      - [x] Selection of the right technology 
+      - [x] First data-model proposal
+      - [x] First architecture proposal
 
 - 2013
 
