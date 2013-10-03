@@ -128,9 +128,8 @@ Cerebellar ataxia. Mochel F, et al; Brain 2009, 132(Pt 3): 801-9. Cerebellar ata
 
 References
 ----------
-
+- http://www.irdirc.org/
 - http://bib.oxfordjournals.org/content/early/2013/05/14/bib.bbt031.full.pdf
-
 - http://bbmri.eu/
 - http://www.nature.com/nbt/journal/v29/n9/full/nbt.1958.html
 
