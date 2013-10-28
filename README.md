@@ -6,6 +6,19 @@ The European Project RD-Connect (http://rd-connect.eu/) supports this effort pro
 
 Due to the complexity of this task we would like to encourage all people to contribute with comments and issues/bug fixes requests. The project [Wiki](https://github.com/inab/cdw/wiki) and the [Issues tracking system](https://github.com/inab/cdw/issues) will be the main channels for this communication.
 
+Vision
+------
+The long-term vision of this project is based on the white paper published by W.H. Inmon et al. (http://www.sciencedirect.com/science/article/pii/B9780124058910000258) 
+The authors proposed a model for the construction of the Health Care Information Factory: a new kind of architecture that combines Big data solutions, textual analytics and traditional RDBMS to improve the way healthcare data is stored and managed today.    
+
+The three main facts that sustain the overall design are:
+
+ - Healthcare information is approached in an inward-looking manner, each entity involved in healthcare information management look at their own internal issues and no one looks at the larger issues in totality.
+
+ - There is very little reusability or integrity of research data. Each researcher find his or her own data and does an analysis.
+
+ - Much of healthcare data is oriented toward text.
+
 
 System architecture
 -------------------
